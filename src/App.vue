@@ -15,6 +15,16 @@ export default {
 </script>
 
 <style>
+.hello {
+	text-align: center;
+	box-shadow: 3px 1px 18px 3px rgba(0,0,0,0.19);
+	font-weight: 400;
+	font-size: 600%;
+	margin-left: 350px;
+	min-height: 190px;
+	width: 800px;
+	padding-top: 8%;
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
