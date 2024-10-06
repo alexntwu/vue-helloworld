@@ -1,4 +1,4 @@
-# helloworld
+# vue-helloworld
 
 ## Project setup
 ```
@@ -13,6 +13,11 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+```
+
+## Project preview 自行手動加入的指令
+```
+npx vite preview --port 4173 --host 
 ```
 
 ### Lints and fixes files
